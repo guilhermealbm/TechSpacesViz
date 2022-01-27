@@ -1,0 +1,16 @@
+tag,weight,category,wiki
+android,1555,system,android is google's mobile operating system used for programming or developing digital devices (smartphones tablets automobiles tvs wear glass iot).
+eclipse,979,ide,eclipse is an open source ide and platform for building applications.
+spring,645,framework,the spring framework is an open source framework for application development on the java platform.
+user-interface,532,system,user interface (ui) is the system through which people interact with a computer.
+maven,499,tool,apache maven is a build automation and project management tool used primarily for java projects.
+scala,497,language,scala is a general-purpose programming language principally targeting the java virtual machine.
+hibernate,479,library,hibernate is an object-relational mapping (orm) library for the java language enabling developers to utilize pojo-style domain models in their applications in ways extending well beyond object/relational mapping.
+swing,471,toolkit,swing is a user-interface toolkit in java and is shipped with the standard java sdk.
+maven-2,459,tool,apache maven is a software project management and comprehension tool.
+gwt,407,toolkit,gwt (formerly the google web toolkit) is a development toolkit for building and optimizing complex browser-based applications.
+ant,374,tool,apache ant (formerly jakarta ant) is a declarative xml-based build tool created originally for java projects.
+jsf,357,framework,jsf jakarta server faces (formerly known as javaserver faces) is a model-view-presenter framework typically used to create html form based web applications.
+groovy,337,language,groovy is an object-oriented programming language for the java platform.
+java-me,328,platform,java platform micro edition or java me is a java platform designed for embedded systems.
+android-activity,307,component,in android applications an activity is a component that provides a user interface allowing the user to do something.

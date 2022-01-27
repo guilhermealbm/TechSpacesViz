@@ -1,0 +1,16 @@
+tag,weight,category,wiki
+jquery,1176,library,jquery is a javascript library consider also adding the javascript tag.
+html,1079,language,html (hypertext markup language) is the markup language for creating web pages and other information to be displayed in a web browser.
+css,866,language,css (cascading style sheets) is a representation style sheet language used for describing the look and formatting of html (hypertext markup language) xml (extensible markup language) documents and svg elements including (but not limited to) colors layout fonts and animations.
+mootools,239,framework,mootools is a compact modular object-oriented prototypal javascript framework designed for the intermediate to advanced javascript developer.
+extjs,231,framework,sencha ext js is a javascript framework for building rich internet applications (rias).
+dojo,217,library,dojo toolkit is an open source modular javascript library designed to ease the rapid development of cross-platform javascript/ajax-based applications and web sites.
+prototypejs,210,framework,prototype is a javascript framework that extends built-in classes to ease js development.
+jquery-mobile,203,framework,jquery mobile is a touch-optimized web framework for smartphones and tablets.
+firebug,177,extension,firebug was a firefox extension which allowed the debugging editing and monitoring of any website's css html dom javascript network traffic and cookies.
+fancybox,135,tool,fancybox is a tool that offers a nice and elegant way to add zooming functionality for images html content and multi-media on your webpages.
+backbone.js,123,framework,backbone.js is a javascript framework with a restful json interface and is based on the model–view–presenter (mvp) application design paradigm
+xul,116,language,xul is an xml-based user interface markup language developed by mozilla.
+raphael,115,library,raphaël is a cross platform javascript library for outputting vector graphics in both standards compliant svg (for firefox chrome internet explorer 9+ ...) and vml for older versions of internet explorer.
+sencha-touch,109,library,sencha touch is a multi mobile device javascript library based on html5 and the model view controller pattern.
+external,109,system,this tag refers to something that is outside of a particular system.

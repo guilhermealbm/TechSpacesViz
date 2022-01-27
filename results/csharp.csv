@@ -1,0 +1,16 @@
+tag,weight,category,wiki
+.net,2097,framework,the .net framework is a software framework designed mainly for the microsoft windows operating system.
+asp.net,1478,framework,asp.net is a microsoft web application development framework that allows programmers to build dynamic web sites web applications and web services.
+vb.net,1081,language,visual basic.net (vb.net) is a multi-paradigm managed type-safe object-oriented computer programming language.
+wpf,951,subsystem,windows presentation foundation or wpf is a subsystem for rendering user interfaces in windows-based applications.
+visual-studio-2010,892,environment,visual studio 2010 is an integrated development environment (ide) from microsoft.
+asp.net-mvc,881,framework,the asp.net mvc framework is an open source web application framework and tooling that implements a version of the model-view-controller (mvc) pattern tailored towards web applications and built upon an asp.
+web-services,617,system,a "web service" is a software system designed to support interoperable machine-to-machine interaction over the world wide web.
+linq,558,component,language integrated query (linq) is a microsoft .net framework component that adds native data querying capabilities to .net languages.
+sharepoint,428,platform,microsoft sharepoint is a platform and a family of software products developed by microsoft for collaboration and web publishing.
+linq-to-sql,409,component,linq to sql is a component of .net framework version 3.5 that provides a run-time infrastructure for managing relational data as objects stored in microsoft sql server.
+xaml,388,language,extensible application markup language (xaml) is a declarative xml-based language used for  initializing structured values and objects in various frameworks.
+windows-phone-7,361,system,windows phone is microsoft's now deprecated mobile operating system and software development platform.
+azure,295,platform,microsoft azure is a platform as a service and infrastructure as a service cloud computing platform.
+f#,282,language,f# is a succinct expressive and efficient functional and object-oriented language for .net which helps you write simple code to solve complex problems.
+razor,222,language,razor is a template language used by asp.

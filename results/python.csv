@@ -1,0 +1,16 @@
+tag,weight,category,wiki
+r,534,environment,r is a free open-source programming language & software environment for statistical computing bioinformatics visualization & general computing.
+django,503,framework,django is an open-source server-side web application framework written in python.
+matlab,418,language,matlab is a high-level language and interactive programming environment for numerical computation and visualization developed by mathworks.
+numpy,235,extension,numpy is an extension of the python language that adds support to large multidimensional arrays and matrixes along with a large library of high-level mathematical functions for operations with these arrays.
+csv,171,database,comma-separated values or character-separated values (csv) is a standard "flat file database" (or spreadsheet-style) format for storing tabular data in plain text with fields separated by a special character (comma tab etc).
+opencv,171,library,opencv (open source computer vision) is a library for real time computer vision.
+scipy,140,library,scipy is an open source library of algorithms and mathematical tools for the python programming language.
+wolfram-mathematica,138,system,wolfram mathematica is a computer algebra system and programming language from wolfram research.
+matplotlib,133,library,matplotlib is a plotting library for python which may be used interactively or embedded in stand-alone guis.
+prolog,104,language,prolog is the most commonly used logic programming language.
+sqlalchemy,100,toolkit,sqlalchemy is a python sql toolkit and object relational mapper that gives application developers the full power and flexibility of sql.
+lxml,76,library,lxml is a full-featured high performance python library for processing xml and html.
+nltk,74,library,the natural language toolkit is a python library for computational linguistics.
+virtualenv,73,tool,virtualenv is a tool that creates sandboxed python environments.
+py2exe,68,extension,py2exe is a python extension that converts python scripts to windows executables.

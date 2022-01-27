@@ -1,0 +1,16 @@
+tag,weight,category,wiki
+mysql,1191,system,mysql is a free open source relational database management system (rdbms) that uses structured query language (sql).
+sql,1138,language,structured query language (sql) is a language for querying databases.
+sql-server,822,system,microsoft sql server is a relational database management system (rdbms).
+oracle,664,system,oracle database is a multi-model database management system created by oracle corporation.
+postgresql,518,system,postgresql is an open-source relational database management system (rdbms) available for all major platforms including linux unix windows and os x. mention your version of postgres when asking questions.
+zend-framework,490,framework,zend framework is an open source object-oriented web application framework implemented in php 7.1 and licensed under the new bsd license.
+drupal,469,framework,drupal is an open source cms framework written in php.
+codeigniter,437,framework,codeigniter is an application development framework - a toolkit - for people who build web sites using php.
+tsql,437,extension,t-sql (transact structured query language) is the extension of sql functionality supported by sybase ase and microsoft sql server.
+cakephp,423,framework,cakephp is an open-source web rapid development framework for php that provides an extensible architecture for developing maintaining and deploying applications.
+coldfusion,316,platform,coldfusion is a server-side rapid application development platform implementing the dynamic general purpose cfml programming language.
+magento,305,platform,magento is an e-commerce platform written in php.
+curl,282,tool,curl is a library and command-line tool for transferring data using various protocols such as http ftp and sftp.
+plsql,261,extension,pl/sql (procedural language/structured query language) is oracle corporation's procedural language extension for sql.
+content-management-system,242,platform,a content management system (cms) is a platform used to build websites that are easily edited by multiple users.
